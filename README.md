@@ -12,7 +12,7 @@
 <div> 
 
  
-  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://gfycat.com/delayedspicyeider"/> 
+  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://media.tenor.com/abfF-YQ167UAAAAd/rock-lee-weights.gif"/> 
   
   
   
