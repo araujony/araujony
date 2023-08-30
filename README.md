@@ -12,7 +12,7 @@
 <div> 
 
  
-  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DelayedSpicyEider-mobile.mp4"/> 
+  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://gfycat.com/delayedspicyeider"/> 
   
   
   
