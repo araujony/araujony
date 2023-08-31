@@ -5,5 +5,5 @@
 </div>
 <h3>Connect with me</h3>
 <p aligh="left">
-    <a href="https://www.instagram.com/araujo.n1/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" aligh="left" width="30"; height="30"></a>
+    <a href="https://www.instagram.com/araujo.n1/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" aligh="left" width="30"; height="30"></a>
 </p>
