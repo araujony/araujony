@@ -1,6 +1,6 @@
 <h2>Olá me chamo Nycolas Araújo, Seja bem-vindo á meus projetos!</h2>
     <h3>Desenvolvedor Front-End</h3>
-    <h1>Sou Nycolas Araújo e atualmente sou Desenvolvedor Web, apaixonado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas, com experiência em HTML, CSS, JavaScript, React.</h1>
+    <h5>Sou Nycolas Araújo e atualmente sou Desenvolvedor Web, apaixonado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas, com experiência em HTML, CSS, JavaScript, React.</h5>
     
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
