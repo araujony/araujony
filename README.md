@@ -1,9 +1,9 @@
 <h2>Olá me chamo Nycolas Araújo, Seja bem-vindo á meus projetos!</h2>
-    <h3>Desenvolvedor Front-End</h3>
+    <h3>Desenvolvedor Web</h3>
     <br>
-    <p>Me Nycolas Araújo e atualmente sou Desenvolvedor Web, apaixonado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas. </p>
+    <p>Me Nycolas Araújo e atualmente sou Desenvolvedor Web, fissurado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas. </p>
     <p>
-        📚 Cursando Análise e Desenvolvimento de Sistemas na Descomplica.  
+        📚 Graduando em Análise e Desenvolvimento de Sistemas - Descomplica  
         <br>
 🌐 Certificado em Desenvolvimento Web pelo IOS (Instituto da Oportunidade Social).  <br>
 🔧 Tecnologias que domino: HTML, CSS, JavaScript, React, Git, GitHub.</p>
