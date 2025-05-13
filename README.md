@@ -5,7 +5,7 @@
     <p>
         📚 Graduando em Análise e Desenvolvimento de Sistemas - Descomplica  
         <br>
-🌐 Certificado em Desenvolvimento Web pelo IOS (Instituto da Oportunidade Social).  <br>
+🌐 Certificado em Desenvolvimento Web - IOS (Instituto da Oportunidade Social)  <br>
 🔧 Tecnologias que domino: HTML, CSS, JavaScript, React, Git, GitHub.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
