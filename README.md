@@ -1,7 +1,7 @@
 <h2>Olá me chamo Nycolas Araújo, Seja bem-vindo á meus projetos!</h2>
     <h3>Desenvolvedor Front-End</h3>
     <br>
-    <p>Sou Nycolas Araújo e atualmente sou Desenvolvedor Web, apaixonado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas. </p>
+    <p>Me Nycolas Araújo e atualmente sou Desenvolvedor Web, apaixonado por criar soluções interativas e responsivas. Cursando Análise e Desenvolvimento de Sistemas. </p>
     <p>
         📚 Cursando Análise e Desenvolvimento de Sistemas na Descomplica.  
         <br>
