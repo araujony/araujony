@@ -27,7 +27,7 @@
 <hr>
 <h3>Connect with me</h3>
 <p aligh="left">
-    <a href="https://www.instagram.com/araujo.n1/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" aligh="left" width="25";></a>
+    <a href="https://www.instagram.com/araujo.n1/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" aligh="left"></a>
     <a href="https://www.instagram.com/araujo.n1/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" aligh="top"></a>
 </p>
 <div>
